@@ -1,0 +1,6 @@
+.container{
+    display: flex;
+    background-color: #b89d9d;
+    height: 100vh;
+    padding-top:1px;
+}

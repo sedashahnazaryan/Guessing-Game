@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    background-color: #b89d9d;
+    height: 500px;
+    width: 500px;
+    padding-top:1px;
+  margin-top: 50px;
+
+}
+#num{
+height: 30px;
+border-radius: 10px;
+}
+#btn{
+    height: 40px;
+    width: 60px;
+    border-radius: 8px;
+    background-color: rgb(241, 224, 72);
+}
+.table{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(111, 116, 92);
+}
+#restart{
+    height: 30px;
+   border-radius: 5px; 
+   background-color: rgb(139, 116, 160);
+}
